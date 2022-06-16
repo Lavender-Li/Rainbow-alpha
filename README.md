@@ -27,7 +27,7 @@
 
 
 ## Instructions for use
-&nbsp; &nbsp; If you only want to use this app and is uninterested in its code, you can download *Rainbow-alpha.apk* in the main directory and install it on your Android device. Both virtual device and physical device are available.
+&nbsp; &nbsp; If you only want to use this app and is uninterested in its code, you can download *Rainbow-alpha.apk* from jBox: https://jbox.sjtu.edu.cn/l/f1LrX9 and install it on your Android device. Both virtual device and physical device are available.
 
 &nbsp; &nbsp; If you want to check the source code and run this application in test mode, you can create an empty project in Android Studio and paste the files into the corresponding *res* and *src* folders. Also, OpenCV library is needed for running. Configuration files are not included in the respitory, due to the complexity of Android Studio and OpenCV configuration. 
 
